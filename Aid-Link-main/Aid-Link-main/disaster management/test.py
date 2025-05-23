@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your Telegram bot token
-BOT_TOKEN = "7510873387:AAE3nAGacP37Xiz7xGwGEyNDxToeRMd3SjE"
+
 
 # List of chat IDs (Users or Groups)
 CHAT_IDS = ["gauthamfr"]  # Add more as needed
